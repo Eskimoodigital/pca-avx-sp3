@@ -6,6 +6,7 @@ provider "aviatrix" {
 
 provider "aws" {
   region = "us-east-1"
+  profile = "SubAccountAdmin-535708457972"
 }
 
 provider "azurerm" {
